@@ -9,7 +9,6 @@
 
 本实现使用指数衰减激励统计量构建时间特征，并非拟合完整的 Hawkes 点过程。
 
-作者：徐思哲（[xizhexu845-glitch](https://github.com/xizhexu845-glitch)）。本项目为个人项目。
 
 ### 方法流程
 ```text
