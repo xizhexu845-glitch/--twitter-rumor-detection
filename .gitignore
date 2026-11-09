@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+conda/
+.idea/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+twitter15/
+twitter16/
+results/
