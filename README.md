@@ -95,8 +95,7 @@ python -m unittest discover -s tests -v
 - 移除已弃用的分类器参数，增加 JSON 指标输出。
 - 排除虚拟环境及第三方数据，保留直接依赖。
 
-### 作者与许可
-本项目为个人项目；应区分代码实现与外部研究、数据来源。第三方依赖遵循各自许可，本仓库目前未授予开源许可证。详见 [OWNERSHIP.md](OWNERSHIP.md)。
+
 
 ---
 
@@ -107,7 +106,6 @@ An event-level social-media classification project combining TF-IDF source-text 
 
 The temporal representation uses exponentially decaying excitation statistics; it does not fit a complete Hawkes point process.
 
-Author: 徐思哲 ([xizhexu845-glitch](https://github.com/xizhexu845-glitch)). This is an individual project.
 
 ### Method
 ```text
@@ -194,5 +192,3 @@ See [VERIFICATION.md](VERIFICATION.md).
 - Removed a deprecated classifier argument and added JSON metric output.
 - Excluded virtual environments and third-party data; retained direct dependencies.
 
-### Authorship and licensing
-This is an individual project. Distinguish the implementation from external research and dataset sources. Dependencies retain their own licenses; no open-source license is currently granted for this repository. See [OWNERSHIP.md](OWNERSHIP.md).
